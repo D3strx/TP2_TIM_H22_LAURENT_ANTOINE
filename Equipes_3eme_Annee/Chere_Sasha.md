@@ -1,10 +1,9 @@
 # Chere Sasha
 
 Cree par: 
-
-Trish Nguyen
-Angelina De Silva Jeca
-Karine Cormier
+Trish Nguyen,
+Angelina De Silva Jeca,
+Karine Cormier et
 Sabrina Kayani
 
 
