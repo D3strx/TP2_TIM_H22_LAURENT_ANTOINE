@@ -21,8 +21,11 @@ Au niveau de l'ambiance ils ont chercher a trouver une ambiance de jeux donc plu
 https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
 
 
-En tant qu'interacteur, lorsque je vais faire l'expérience de l'installation, je mattends a faire beaucoup de cables et de placer des projecteur et des haut-parleurs. Il a aussi quelques meubles a placer.
+## Expérience intéracteur
+En tant qu'interacteur, lorsque je vais faire l'expérience du jeux temporel, je ferai des choix qui me rejoigne plus et j'espere que cela finira avec une bonne fin et non une fin désastreuse.
 
+
+## Cours incontournables
 Aun niveau des 3 cours du programme qui sont incontournables pour créer ce projet sont: 
 Les cours de CSS et HTML pour faire le programe, 
 des cours pour savoir utiliser les programs sonore et
