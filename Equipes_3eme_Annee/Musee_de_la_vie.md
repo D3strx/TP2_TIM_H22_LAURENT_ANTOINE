@@ -1,4 +1,4 @@
-# Chronaufrage
+# Musee de la vie
 les créateurs et créatrices
 la façon dont le thème du temps est exploité dans la création
 l'ambiance
