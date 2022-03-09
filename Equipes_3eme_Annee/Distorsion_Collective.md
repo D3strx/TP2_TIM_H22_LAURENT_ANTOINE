@@ -26,7 +26,7 @@ https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.ht
 
 
 ## Expérience intéracteur 
-Au niveau de l'expérience, je ne suis pas trop sur comment tout cela va se passer mais je vais vivre l'expérience a 100% et je vais 
+Au niveau de l'expérience, je ne suis pas trop sur comment tout cela va se passer mais je vais vivre l'expérience a 100% et je vais expérimenter cette boucle temporelle en expérimentant cette accélération temporelle.
 
 
 
