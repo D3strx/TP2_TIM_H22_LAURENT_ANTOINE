@@ -27,8 +27,9 @@ Au niveau de l'ambiance, ils crée une scène plus tendu, et fait subir a l'util
 
 
 
+## Expérience intéracteur
+Lorsque je participerai a l'expérience je me tiendrai a l'ecoute et attentif a tout ce qui se passe. Je viverai l'expérience VR du projet 3 minutes.
 
-Lorsque je ferai l'expérience d'installation je m'attendrais à faire beaucoup de travail sur ordinateur au niveau du vr, faire le casier et placer les appareils sonores un peu partout.
 
-
-Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet, ce sont les cours d'Animation 2D, Conception sonore et le cours de Réalité virtuelle.
+## Cours incontournables
+Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet, ce sont les cours d'Animation 3D, Conception sonore et le cours de Réalité virtuelle.
