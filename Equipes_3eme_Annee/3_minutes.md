@@ -1,24 +1,25 @@
 # 3 Minutes
 
-Les créateurs/créatrices sont:
+## Les créateurs/créatrices 
 Naoufal Bensaiad,
 Jérémie Lévesque et 
-Samuel Poulin
+Samuel Poulin.
 
-
+## La façon dont le thème du temps est exploité dans la création
 La façon que le thème du temps est touché est car les 2 parties de l'histoire font 3 minutes de long.
 Le temps est représenté par des bons et des mauvais moments, qui constitue la vie d'un enfant intimidé.
 
+## L'ambiance
 Au niveau de l'ambiance, ils crée une scène plus tendu, et fait subir a l'utilisateur un sentiment d'impuissance et de détresse.
 
 
-Voici l'installation en cours dans les studios:
+## Voici l'installation en cours dans les studios:
 
 
 ![image](https://user-images.githubusercontent.com/89648302/157369194-8f9eddf3-3a10-4e7f-813c-095cd5806c41.png)
 
 
-Voici le schéma de l'installation prévue:
+## Voici le schéma de l'installation prévue:
 
 
 ![image](https://user-images.githubusercontent.com/89648302/157369344-b3c00f15-855c-4e6f-ba96-a51d8ef92f73.png)
