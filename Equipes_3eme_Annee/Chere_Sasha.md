@@ -28,6 +28,7 @@ https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
 ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+lorsque je vais faire l'expérience de l'installation, je m'attends a faire beaucoup de cables et de jeux de lumiere (donc de placer des lumieres un peut partout) et de faire des plan pour les 2 chambres (chambre d'adulte et d'adolescent)
 
-3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
 
+Les 3 cours qui sont incontournables pour avoir  les compétences pour créer ce projet sont les cours sur l'eclairage, les voix (comment s'enregister et les ajouter sur un programe) et le cour sur l'app MAX
