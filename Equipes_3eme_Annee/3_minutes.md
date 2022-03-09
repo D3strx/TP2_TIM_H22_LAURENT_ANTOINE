@@ -1,6 +1,6 @@
 # 3 Minutes
 
-Les créateurs sont:
+Les créateurs/créatrices sont:
 Naoufal Bensaiad,
 Jérémie Lévesque et 
 Samuel Poulin
