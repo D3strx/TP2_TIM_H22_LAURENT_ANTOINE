@@ -26,8 +26,9 @@ https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.ht
 
 
 ## Expérience intéracteur 
-
+Au niveau de l'expérience, je ne suis pas trop sur comment tout cela va se passer mais je vais vivre l'expérience a 100% et je vais 
 
 
 
 ## 3 cours incontournables 
+Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet sont le cours de Réalité virtuelle, le cours sur unity et un cours sur les modélisations 3D.
