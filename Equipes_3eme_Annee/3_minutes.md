@@ -9,7 +9,7 @@ Samuel Poulin
 la façon que le theme du temps est touche est car les 2 parties de l'histoire font 3 minutes de long.
 
 
-l'ambiance
+au niveau de l'ambiance, ils cree une scene plus tendu.
 
 
 Voici l'installation en cours dans les studios:
@@ -26,7 +26,8 @@ Voici le schéma de l'installation prévue:
 
 
 
-ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-Je m'attendrais
 
-3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+Lorsque je ferai l'experience d'installation je m'attendrais a faire beaucoup de travail sur lordinateur au niveau du vr, faire le casier et placer les appareils sonore un peut partout.
+
+
+Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet sont les cours de programations, comment utiliser les programs vr et avoir des bases pour faire des musiques.
