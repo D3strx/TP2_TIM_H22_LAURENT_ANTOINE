@@ -26,8 +26,9 @@ Au niveau de l'ambiance, une ambiance de conflit est présente et ils sont aller
 https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
+## Expérience intéracteur
+Losrsque je viverai l'expérience du projet Chère Sasha, je verra les deux chambres differentes (celle de l'adolescente et celle d'adulte) et je viverai un "comming out". Cela me fera aussi vivre la vie d'une fille qui ne se fait pas accepter par sa famille car elle est homosexuel.
 
-Losrsque je vais faire l'expérience de l'installation, je m'attends a faire beaucoup de cables et de jeux de lumiere (donc de placer des lumieres un peut partout) et de faire des plan pour les 2 chambres (chambre d'adulte et d'adolescent)
 
-
+## Cours incontournables
 Les 3 cours qui sont incontournables pour avoir  les compétences pour créer ce projet sont les cours sur l'eclairage, les voix (comment s'enregister et les ajouter sur un programe) et le cours sur l'app MAX
