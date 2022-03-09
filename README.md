@@ -4,3 +4,4 @@
 .
 
 **Le dossier Equipes_3eme_Annee** est le repository qui documente et présente chaque projet des 3eme années.
+![photo](MEDIAS/projecteurs.jpg)
