@@ -13,6 +13,16 @@ Voici l'installation en cours dans les studios:
 
 ![image](https://user-images.githubusercontent.com/89648302/157494161-da9523cf-8817-470e-82b0-3717239591a7.png)
 
-le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+Voici le schéma de l'installation prévue
+
+![image](https://user-images.githubusercontent.com/89648302/157494475-e6c2df98-f618-4661-9c43-ba81f1683a8b.png)
+
+https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
+
+
+En tant qu'interacteur, lorsque je vais faire l'expérience de l'installation, je mattends a faire beaucoup de cables et de placer des projecteur et des haut-parleurs. Il a aussi quelques meubles a placer.
+
+Aun niveau des 3 cours du programme qui sont incontournables pour créer ce projet sont: 
+Les cours de CSS et HTML pour faire le programe, 
+des cours pour savoir utiliser les programs sonore et
+des cours sur le program MAX.
