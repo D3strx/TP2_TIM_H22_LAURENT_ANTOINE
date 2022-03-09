@@ -1,6 +1,6 @@
 # Chere Sasha
 
-Cree par: 
+Les créateurs/créatrices sont: 
 Trish Nguyen,
 Angelina De Silva Jeca,
 Karine Cormier et
