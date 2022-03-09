@@ -13,12 +13,14 @@ Le theme du temps est touche grace aux annees vu que losrque elle etait adolesce
 l'ambiance
 
 
-l'installation en cours dans les studios (photos à l'appui)
+Voici l'installation en cours dans les studios 
+
 !photo![image](https://user-images.githubusercontent.com/89648302/157365961-f1e3969d-bfae-4b70-b10d-aec167081383.png)
 
 
 
 Voici le schéma de l'installation:
+
 !photo![image](https://user-images.githubusercontent.com/89648302/157366654-03bc4af4-afb6-43a2-a248-31f84085bfef.png)
 https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
