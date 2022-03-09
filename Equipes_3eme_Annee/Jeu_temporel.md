@@ -1,19 +1,20 @@
 # Jeu Temporel
-les créateurs sont :
+## Les créateurs/créatrices
 Raphaël Fillion et 
-Philippe Trudel
+Philippe Trudel.
 
-
+## La façon dont le thème du temps est exploité dans la création
 La facon que le theme du temps est touche dans le projet est avec les changement climatiques et chaque utilisateur a la possibilite de faire des bon et des mauvais choix entraiant une fin heureuse ou mauvaise.
 
+## L'ambiance
 Au niveau de l'ambiance ils ont chercher a trouver une ambiance de jeux donc plus calme. 
 
 
-Voici l'installation en cours dans les studios:
+## Voici l'installation en cours dans les studios:
 
 ![image](https://user-images.githubusercontent.com/89648302/157494161-da9523cf-8817-470e-82b0-3717239591a7.png)
 
-Voici le schéma de l'installation prévue
+## Voici le schéma de l'installation prévue
 
 ![image](https://user-images.githubusercontent.com/89648302/157494475-e6c2df98-f618-4661-9c43-ba81f1683a8b.png)
 
