@@ -1,15 +1,15 @@
 # 3 Minutes
 
-les créateurs sont:
+Les créateurs sont:
 Naoufal Bensaiad,
 Jérémie Lévesque et 
 Samuel Poulin
 
 
-la façon que le theme du temps est touche est car les 2 parties de l'histoire font 3 minutes de long.
+La façon que le thème du temps est touché est car les 2 parties de l'histoire font 3 minutes de long.
+Le temps est représenté par des bons et des mauvais moments, qui constitue la vie d'un enfant intimidé.
 
-
-au niveau de l'ambiance, ils cree une scene plus tendu.
+Au niveau de l'ambiance, ils crée une scène plus tendu, et fait subir a l'utilisateur un sentiment d'impuissance et de détresse.
 
 
 Voici l'installation en cours dans les studios:
@@ -27,7 +27,7 @@ Voici le schéma de l'installation prévue:
 
 
 
-Lorsque je ferai l'experience d'installation je m'attendrais a faire beaucoup de travail sur lordinateur au niveau du vr, faire le casier et placer les appareils sonore un peut partout.
+Lorsque je ferai l'expérience d'installation je m'attendrais à faire beaucoup de travail sur ordinateur au niveau du vr, faire le casier et placer les appareils sonores un peu partout.
 
 
-Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet sont les cours de programations, comment utiliser les programs vr et avoir des bases pour faire des musiques.
+Au niveau des 3 cours incontournables pour avoir les compétences pour créer le projet, ce sont les cours d'Animation 2D, Conception sonore et le cours de Réalité virtuelle.
