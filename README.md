@@ -1,6 +1,6 @@
 # TP2_TIM_H22_LAURENT_ANTOINE
 
-**Le repository Equipe_Tp2** est le repository pour chaque .md individuel.
+**Le dossier Equipe_Tp2** est le repository pour chaque .md individuel.
 .
 
-**Le repository Equipes_3eme_Annee** est le repository qui documente et présente chaque projet des 3eme années.
+**Le dossier Equipes_3eme_Annee** est le repository qui documente et présente chaque projet des 3eme années.
