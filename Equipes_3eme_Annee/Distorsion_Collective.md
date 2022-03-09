@@ -1,21 +1,33 @@
 # Distorsion Collective
-les créateurs sont: 
-illiam Dubois et 
+
+## les créateurs 
+Illiam Dubois et 
 Ghislain Lacombe
 
-Le theme du temps est touche grace a la boucle temporelle et le temps s'accelere 
+
+## La facon que le thème du temps est touché
+Le thème du temps est touché grace a la boucle temporelle et le temps s'accelere 
 
 
-l'ambiance
+## Ambiance
+L'ambiance va etre de plus en plus stressante plus que l'expérience avance
 
 
-l'installation en cours dans les studios (photos à l'appui)
+## L'installation en cours dans les studios
 
 <img width="1028" alt="image" src="https://user-images.githubusercontent.com/89648302/157513389-8ec0baeb-aa01-42bd-84da-5ec1aad04a84.png">
 
 
-le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+<img width="1028" alt="image" src="https://user-images.githubusercontent.com/89648302/157521663-b1946e5e-7474-4df7-ad99-ebfb010ad158.png">
 
 
-ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
+
+
+## Expérience intéracteur 
+
+
+
+
+## 3 cours incontournables 
