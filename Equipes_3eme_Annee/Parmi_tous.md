@@ -4,3 +4,4 @@ Au niveau de la technique qu'on ne connaissait pas, cest les techinques de Réal
 
 
 # La composante technologique qu'on ne connaissait pas
+Le potentiomètre 360 degrés utilisé par le projet de l'horloge de l'apocaplypse.
