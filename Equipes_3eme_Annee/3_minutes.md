@@ -15,7 +15,7 @@ Au niveau de l'ambiance, ils crée une scène plus tendu, et fait subir a l'util
 
 ## Voici l'installation en cours dans les studios:
 
-![photo](MEDIAS/3minutesPhoto.md)
+![image](TP2_TIM_H22_LAURENT_ANTOINE/MEDIAS/3minutesPhoto.md)
 ![image](https://user-images.githubusercontent.com/89648302/157369194-8f9eddf3-3a10-4e7f-813c-095cd5806c41.png)
 
 
