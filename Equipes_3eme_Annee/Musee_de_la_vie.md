@@ -21,4 +21,11 @@ source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.htm
 ![image](https://user-images.githubusercontent.com/98911233/157516907-a1d9f60d-18be-40bd-a564-6eed5de389eb.png)
 source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+«Le participant rentre dans l'univers en marchant sur un tapis. Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux. Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.»
+
+
+Source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+
+
+## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+Animation 2D, Espace interactif, Gestion de projet multimédia.
